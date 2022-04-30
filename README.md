@@ -3,3 +3,6 @@ an education malware that Steals discord token, chrome passwords, ROBLOX account
 
 USAGE:
 just run "SysRipper.exe" in your virtual machine testing environment (or any PC Wink) and enjoy the destruction of the windows environment (All tokens and info goes to me)
+
+Showcase:
+https://www.youtube.com/watch?v=GebhWlnh-zE
