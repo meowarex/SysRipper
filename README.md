@@ -1,7 +1,19 @@
 # SysRipper
-an education malware that wipes MBR and bricks SSD.
+
+
+        ░██████╗██╗░░░██╗░██████╗██████╗░██╗██████╗░██████╗░███████╗██████╗░
+        ██╔════╝╚██╗░██╔╝██╔════╝██╔══██╗██║██╔══██╗██╔══██╗██╔════╝██╔══██╗
+        ╚█████╗░░╚████╔╝░╚█████╗░██████╔╝██║██████╔╝██████╔╝█████╗░░██████╔╝
+        ░╚═══██╗░░╚██╔╝░░░╚═══██╗██╔══██╗██║██╔═══╝░██╔═══╝░██╔══╝░░██╔══██╗
+        ██████╔╝░░░██║░░░██████╔╝██║░░██║██║██║░░░░░██║░░░░░███████╗██║░░██║
+        ╚═════╝░░░░╚═╝░░░╚═════╝░╚═╝░░╚═╝╚═╝╚═╝░░░░░╚═╝░░░░░╚══════╝╚═╝░░╚═╝
+
+         █░█░█ █ █▀█ █▀▀ █▀█   ▄█▄   █▀ █ █░░ █▀▀ █▄░█ ▀█▀
+         ▀▄▀▄▀ █ █▀▀ ██▄ █▀▄   ░▀░   ▄█ █ █▄▄ ██▄ █░▀█ ░█░
+
+An Educational Malware That Wipes MBR And All Drives
 
 USAGE:
-just run "SysRipper.exe" in your virtual machine testing environment (or any PC Wink) and enjoy the destruction of the windows environment
+Just Run "SysRipper.exe" In Your Virtual Machine Testing Environment And Enjoy The Destruction Of The Windows Environment
 
 
